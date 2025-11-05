@@ -1,0 +1,5 @@
+{
+  "name": "Stadium Booking MVP",
+  "description": "A simple mobile-first application for managing stadium bookings. Stadium owners can add available times, and users can book appointments. This MVP includes core features like user/owner roles, stadium browsing, booking, and a management dashboard.",
+  "requestFramePermissions": []
+}
